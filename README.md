@@ -1,16 +1,13 @@
-### Hi there 👋
+### Salut, je m'appelle Michel
 
-<!--
-**michelc/michelc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_J'essaie de créer des programmes simples et sympas à utiliser._
 
-Here are some ideas to get you started:
+- 💻 J'ai commencé à développer en Quick Basic puis Visual Basic et maintenant en C# (ASP.NET MVC + Oracle / SQL Serveur).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚽ Je code aussi en Ruby + Sinatra ou Javascript + Node.js à titre personnel.
+
+- 🌱 Actuellement, je cherche à améliorer mon niveau en Javascript et Node.js.
+
+- 📓 Je blogue, depuis longtemps, mais pas tout le temps : [https://blog.pagesd.info/](https://blog.pagesd.info/)
+
+- 🃏 Pour le plaisir, j'ai créé un site de jeux de réussite : [https://www.solitaire-play.com/](https://www.solitaire-play.com/)
